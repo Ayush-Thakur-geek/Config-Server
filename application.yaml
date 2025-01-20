@@ -10,6 +10,6 @@ eureka:
       defaultZone: ${EUREKA_SERVER_ADDRESS:http://localhost:8761/eureka}
 
 
-  okta:
-    oauth2:
-      issuer: https://dev-wgukswd3g0sjbf77.us.auth0.com/
+okta:
+  oauth2:
+    issuer: https://dev-wgukswd3g0sjbf77.us.auth0.com/
